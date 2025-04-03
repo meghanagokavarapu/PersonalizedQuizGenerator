@@ -1,4 +1,4 @@
-# medixpress
+# QuizGenerator
 
 
 
