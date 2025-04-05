@@ -24,3 +24,7 @@ body {
     min-height: auto;
     flex : 1;
 }
+
+.backgroundimage-admin{
+    background-image: url(../../../public/images/quizdashboard.png)
+}
